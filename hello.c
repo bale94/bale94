@@ -11,6 +11,8 @@ int main() {
         printf("C = %d\n", c-i);
     }
 
+    int d= 10;
+    int f = 10;
     return 0;
 
 }
